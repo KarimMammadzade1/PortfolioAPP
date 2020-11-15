@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kerim Portfolio</string>
+
+    <string name="loremtext">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum \nLorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</string>
+    <string name="jobtext">Graphic Designer &amp;Programmer</string>
+    <string name="loremtext2">IpsumLorem IpsumLorem IpsumLorem IpsumLorem \nIpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem \nIpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem
+    IpsumLorem IpsumLorem IpsumLorem </string>
+    <string name="name">Kerim \nMemmedzade</string>
+    <string name="current_job">Mobile Developer</string>
+    <string name="diploma">BMU DIPLOMA</string>
+    <string name="portfelioexplanation">Below You Can Look Through Our Projects. \nThanks To Our Great Enthusiastic Team We Have \nDone Nothing So Far As You Can See \n(Little Annotation:This Project has been created \nby Kerim Memmedzade in 12 October 2020 \nProgress just took 12 hours and 50 minutes...)</string>
+
+    <string name="kerimexplanation1">If You Are Reading This There Is No Way That You Could Get This Yourself \nSo You Know Me Probably Very Well \nAnd I Have Nothing to Tell You </string>>
+
+    <string name="kerimexplanation2">
+         Till Now I Have Been Learning Android Development For More or Less 6 Months \nAs You Can See I Am Not The Best *Learner* \nBut I Am Not The Worst One Either
+    </string>
+    <string name="kerimexplanation3">
+        Next Year I Am Going To Try to Graduate From University \nOf Course Each Person Has Its Own Opinion \nFor Me It Is Total Waste Of Time Just Like This Application \nAnyway Move Forward..
+    </string>
+    <string name="ourteamexp">Our Team Consists Of Totally Unrelated Guys \n Dont You See? \n We Have Even Tony Stark...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="professional_experience">(un)Professional Experience</string>
+    <string name="our_team">Our Team</string>
+    <string name="kerim_memmedzade">Kerim Memmedzade</string>
+    <string name="portfolio">Portfolio</string>
+</resources>
